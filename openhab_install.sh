@@ -42,6 +42,4 @@ sudo /etc/init.d/openhab start
 #sudo update-rc.d nmbd enable
 #sudo service smbd restart
 
-
-
 # Save openhab_default.cfg else it will break
