@@ -10,7 +10,7 @@ The script is taking bits from the following tutorial:
 http://www.makeuseof.com/tag/getting-started-openhab-home-automation-raspberry-pi/
 
 
-- Important files with their location:
+* Important files with their location:
 OpenHAB configuration: /etc/openhab/configurations
 To add new layouts, create a new file called eg. home.sitemap under the sitemaps folder.
 To register new devices, add a new file called eg. home.items under the items folder.
